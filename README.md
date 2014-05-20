@@ -16,3 +16,5 @@ These are the main features:
 - SEO friendly
 
 Website: http://www.mvcwcms.com
+
+Latest release: https://github.com/valgen/mvcwcms/releases
