@@ -15,6 +15,8 @@ These are the main features:
 - Caching support
 - SEO friendly
 
+Additional terms: https://github.com/valgen/mvcwcms/blob/master/ADDITIONAL-TERMS.md
+
 Website: http://www.mvcwcms.com
 
 Latest release: https://github.com/valgen/mvcwcms/releases
